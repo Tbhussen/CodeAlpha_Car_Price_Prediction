@@ -41,8 +41,8 @@ The target variable for prediction is the `Selling Price` of the car.
 
 5. Evaluation
 
-   _R-Squared_: The coefficient of determination is used to evaluate the model’s accuracy and interpretability.
+   _R-Squared_: The coefficient of determination is used to evaluate the model’s accuracy and interpretability. The R-Squared was **0.86** for _linear reagression_ in comparison to **0.96** for _random forest_ suggesting a non-linear relationship among the features.
 
-   _Model Interpretation_: We analyze the coefficients and feature importances from linear regression model to understand how each feature impacts car pricing.
+   _Model Interpretation_: We analyze the coefficients and features importances from linear regression model to understand how each feature impacts car pricing.
 
 _Project Done_
