@@ -45,3 +45,4 @@ The target variable for prediction is the `Selling Price` of the car.
 
    _Model Interpretation_: We analyze the coefficients and feature importances from linear regression model to understand how each feature impacts car pricing.
 
+_Project Done_
