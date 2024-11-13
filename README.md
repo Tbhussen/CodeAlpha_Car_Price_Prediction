@@ -1,2 +1,2 @@
 # CodeAlpha_Car_Price_Prediction
-Machine Learning Project that predicts car price based on specific features. 
+Machine Learning Project that predicts cars' prices based on specific features. 
